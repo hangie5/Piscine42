@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        ::::::::            */
+/*   ft_iterative_factorial.c                           :+:    :+:            */
+/*                                                     +:+                    */
+/*   By: tlin <marvin@codam.nl>                       +#+                     */
+/*                                                   +#+                      */
+/*   Created: 2023/09/06 13:29:44 by tlin          #+#    #+#                 */
+/*   Updated: 2023/09/06 13:48:29 by tlin          ########   odam.nl         */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include <stdio.h>
 
 int	ft_iterative_factorial(int nb)
@@ -20,8 +32,9 @@ int	ft_iterative_factorial(int nb)
 		return (0);
 }
 
-int main(void)
+/*int	main(void)
 {
     printf( "%d\n", ft_iterative_factorial(10));
     return(0);
 }
+*/
