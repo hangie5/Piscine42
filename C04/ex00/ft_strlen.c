@@ -24,7 +24,6 @@ int	ft_strlen(char *str)
 	return (i);
 }
 
-int ft_strlen(char *str);
 int main (void)
 {
     printf("%i", ft_strlen("bruh123"));
