@@ -50,7 +50,7 @@ void	ft_swap(char **a, char **b)
 	*b = tmp;
 }
 
-/*int	main(int argc, char **argv)
+int	main(int argc, char **argv)
 {
 	int	j;
 	int	x;
@@ -77,4 +77,4 @@ void	ft_swap(char **a, char **b)
 		j++;
 	}
 	return (0);
-}*/
+}
